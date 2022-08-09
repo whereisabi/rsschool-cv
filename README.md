@@ -1,1 +1,1 @@
-https://whereisabi.github.io/rsschool-cv/cv
+https://whereisabi.github.io/rsschool-cv/
